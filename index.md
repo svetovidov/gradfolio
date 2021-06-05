@@ -7,8 +7,8 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+Welcome to my page! I am Andrei, a mid-level data science specialist who is passionate about applying cutting-edge machine learning and data engineering approaches to real world problems.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+I earned my BS and MS in Radio Physics from Kazan Federal University, Russia. I also completed a Graduate Certificate in Data Analytics program at Virginia Tech.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+Outside of my career and academia, I am a huge soccer and tennis fan and cooking enthusiast. Feel free to reach out to me via email or LinkedIn.

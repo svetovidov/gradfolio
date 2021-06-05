@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Andrei Svetovidov
+description: Data Scientist | Blacksburg, VA
 
 baseurl: /gradfolio #name of GitHub repository
 url: #custom url to be used instead of GitHub repository
-email: #
+email: andreis@vt.edu #
 
 
 highlighter: rouge
@@ -17,12 +17,12 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+#facebook: "#"
+twitter: "@svetovidov94"
+linkedin: "andrei-svetovidov"
+github: "svetovidov"
+researchgate: "Andrei-Svetovidov"
+# orcid: "#"
 
 highlighter: rouge
 markdown: kramdown
