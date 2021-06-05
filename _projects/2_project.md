@@ -4,7 +4,7 @@ title: TarSpark
 description: Towards efficient debugging in DISC systems
 ---
 
-![image](/gradfolio/assets/images/bigdata4.png)
+![image](/assets/images/bigdata4.png)
 
 Many real-world tasks rely on massive amounts of data nowadays, and using Data-Intensive Scalable Computing (DISC) systems such as Apache Spark is necessary. However, debugging of such systems remains a challenging task due to the parallel and distributed nature of processes in DISC systems.
 
