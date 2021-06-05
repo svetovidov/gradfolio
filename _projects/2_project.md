@@ -13,9 +13,11 @@ This project is our attempt to make fault localization in distributed systems fa
 My contribution is as follows:
 
 
-  * Co-implemented fail/pass aggregation method
-  * Automated collection of line numbers
-  * Evaluated the system performance
+
+  - Co-implemented fail/pass aggregation method
+  - Automated collection of line numbers
+  - Evaluated the system performance
+
 
 
 Project [repo](https://github.com/brendanmolin/TarSpark){:target="_blank"}
