@@ -8,6 +8,6 @@ According to the statistics provided by Federal Highway Administration, crashes 
 
 As a part of the Video Analytics project at Virginia Tech Transportation Institute, I developed a simple work zone object detector based on a Bayesian classifier. We used prior information about object pixel-wise color and spatial location on a 2D frame. This approach can be used as a preliminary data filtering step for a more robust deep learning classifier. You can find the example of a work zone image and classification results before and after post-processing below:
 
-![image](/gradfolio/assets/images/workzone.jpg)
+![workzone](/gradfolio/assets/images/workzone.jpg)
 
 *Tools used: Python, OpenCV, Seaborn*
