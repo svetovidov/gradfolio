@@ -3,7 +3,7 @@
 title: Andrei Svetovidov
 description: Data Scientist | Blacksburg, VA
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: / #name of GitHub repository
 url: #custom url to be used instead of GitHub repository
 email: andreis@vt.edu #
 
