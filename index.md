@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-Welcome to my page! I am Andrei, a mid-level data science specialist who is passionate about applying cutting-edge machine learning and data engineering approaches to real world problems.
+Welcome to my page! I am Andrei, a mid-level data scientist who is passionate about applying cutting-edge machine learning and data engineering approaches to real-world problems.
 
 I earned my BS and MS in Radio Physics from Kazan Federal University, Russia. I also completed a Graduate Certificate in Data Analytics program at Virginia Tech.
 
