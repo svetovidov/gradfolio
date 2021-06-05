@@ -4,7 +4,7 @@ title: TarSpark
 description: Towards efficient debugging in DISC systems
 ---
 
-![Big Data wordcloud](/assets/images/bigdata4.png){:class="img-responsive"}
+![image](/assets/images/bigdata4.png)
 
 Many real-world tasks rely on massive amounts of data nowadays, and using Data-Intensive Scalable Computing (DISC) systems such as Apache Spark is necessary. However, debugging of such systems remains a challenging task due to the parallel and distributed nature of processes in DISC systems.
 
@@ -12,9 +12,12 @@ This project is our attempt to make fault localization in distributed systems fa
 
 My contribution is as follows:
 
+
   * Co-implemented fail/pass aggregation method
   * Automated collection of line numbers
   * Evaluated the system performance
-  
+
+
 Project [repo](https://github.com/brendanmolin/TarSpark){:target="_blank"}
+
 *Tools used: Java, Scala, Git*

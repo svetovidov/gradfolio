@@ -11,4 +11,5 @@ We focused on predicting the impact of a given law text on internet broadband sp
 In this project, I worked on preprocessing and vectorizing raw texts of laws with GloVe embedding, as well as implementing machine learning models for policy classification. The results were presented at a poster section of the FLAIRS conference and can be found [here](https://journals.flvc.org/FLAIRS/article/view/128499){:target="_blank"}
 
 Project [repo](https://github.com/AI-VTRC/AIassurance){:target="_blank"}
+
 *Tools used: Python, Scikit-learn, PyTorch, Git*
