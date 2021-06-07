@@ -7,7 +7,7 @@ baseurl: / #name of GitHub repository
 url: #custom url to be used instead of GitHub repository
 email: andreis@vt.edu #
 
-
+timezone: America/New_York
 highlighter: rouge
 markdown: kramdown
 
