@@ -5,4 +5,4 @@ permalink: /resume/
 published: true
 ---
 
-Resume can be found [here](/assets/docs/Resume_AS.pdf){:target="_blank"}
+Resume can be found [here](/assets/docs/Resume_1page.pdf){:target="_blank"}
